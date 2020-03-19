@@ -1,0 +1,62 @@
+ul {
+  list-style: none;
+  padding: 0;
+}
+.filter-box {
+  border: 1px solid #666;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+.gray-bg {
+  display: inline-block;
+  background: grey;
+  padding: 10px;
+  border-radius: 8px;
+  margin-right: 15px;
+}
+.box-container {
+  background-color: black;
+  color: white;
+}
+.middle-row {
+  margin: 20px 0 20px;
+}
+h2 {
+  margin: 15px 0;
+  font-size: 1.5rem;
+}
+h3 {
+  margin: 0;
+  font-size: 1.25rem;
+}
+a {
+  text-decoration: none;
+}
+.box-container .tile {
+  color: white;
+  background: #333;
+}
+.tile img {
+  width: 100%;
+}
+.tile ul li {
+  display: inline-block;
+  width: 100%;
+}
+.search-box input[type="text"] {
+  width: 50%;
+}
+.search-box p {
+  font-weight: 400;
+  margin-bottom: 0;
+}
+.search-box input[type="button"] {
+  padding: 2px 15px;
+}
+.sort-dropdown {
+  margin-top: 50px;
+}
+.sort-dropdown select {
+  height: 25px;
+  width: 50%;
+}
